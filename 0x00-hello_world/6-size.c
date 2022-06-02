@@ -1,9 +1,3 @@
-#include <stdio.h>
-
-/** int main(void){
-        printf("Hello world\n Tesla is just beggining to code in C.");
-}
-*/
 #include<stdio.h>
 /**
 * main - Entry point
