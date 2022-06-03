@@ -12,7 +12,7 @@ int num;
 int number;
 for (num = 48 ; num < 58 ; num++)
 {
-for (number = 48 ; number <58 ; number ++)
+for (number = 48 ; number < 58 ; number ++)
 {
 if (num < number && num <= number && num != number)
 {
