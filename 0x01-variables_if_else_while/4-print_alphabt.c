@@ -15,7 +15,7 @@ for (alp = 'a' ; alp <= 'z' ; alp++)
 {
 if (alp != 'e' && alp != 'q')
 {
-putchar(alp); 
+putchar(alp);
 }
 }
 putchar(nl);
