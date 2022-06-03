@@ -9,7 +9,6 @@
 int main(void)
 {
 int num;
-nl = 012;
 for (num = 48 ; num < 58 ; num++)
 {
 putchar(num);
