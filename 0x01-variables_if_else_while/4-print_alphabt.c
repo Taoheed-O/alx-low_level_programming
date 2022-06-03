@@ -13,7 +13,7 @@ char nl;
 nl = 012;
 for (alp = 'a' ; alp <= 'z' ; alp++)
 {
-  if (alp != 'e' && alp != 'q')
+if (alp != 'e' && alp != 'q')
 {
 putchar(alp); 
 }
