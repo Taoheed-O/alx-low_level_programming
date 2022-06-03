@@ -8,13 +8,12 @@
  */
 int main(void)
 {
-char num;
-char nl;
+int num;
 nl = 012;
 for (num = 48 ; num < 58 ; num++)
 {
 putchar(num);
 }
-putchar(nl);
+putchar('\n');
 return (0);
 }
