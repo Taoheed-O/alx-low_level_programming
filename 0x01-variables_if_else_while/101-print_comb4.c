@@ -17,7 +17,7 @@ for (nums = 48 ; nums < 58 ; nums++)
 {
 for (number = 48 ; number < 58 ; number++)
 {
-if (number != num && number != nums && num != nums && num < nums && nums < number && num < number )
+if (number != num && number != nums && num != nums && num < nums && nums < number && num < number)
 {
 putchar(num);
 putchar(nums);
