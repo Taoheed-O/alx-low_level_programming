@@ -8,21 +8,21 @@
  */
 int main(void)
 {
-int num;
-int nums;
-int number;
-for (num = 48 ; num < 58 ; num++)
+int a;
+int b;
+int c;
+for (a = 48 ; a < 58 ; a++)
 {
-for (nums = 48 ; nums < 58 ; nums++)
+for (b = 48 ; b < 58 ; b++)
 {
-for (number = 48 ; number < 58 ; number++)
+for (c = 48 ; c < 58 ; c++)
 {
-if (number != num && number != nums && num != nums && num < nums && nums < number && num < number)
+if (c != a && c != b && a != b && a < b && b < c && a < c)
 {
-putchar(num);
-putchar(nums);
-putchar(number);
-if (number != 57 || nums != 56 || num != 55)
+putchar(a);
+putchar(b);
+putchar(c);
+if (c != 57 || b != 56 || a != 55)
 {
 putchar(',');
 putchar(' ');
