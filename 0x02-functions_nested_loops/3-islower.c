@@ -1,7 +1,8 @@
 #include"main.h"
 /**
-* int _islower - checks for lowercase letters.
-* c - a parameter that could be a random value...
+* _islower - checks for lowercase letters.
+*
+* @c - a parameter that could be a random value...
 *
 * Return: Always 0 (Success)
 */
