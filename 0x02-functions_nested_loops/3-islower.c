@@ -2,7 +2,7 @@
 /**
 * _islower - checks for lowercase letters.
 *
-* @c - a parameter that could be a random value...
+* @c: - a parameter that could be a random value...
 *
 * Return: Always 0 (Success)
 */
