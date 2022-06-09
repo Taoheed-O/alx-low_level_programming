@@ -18,8 +18,7 @@ for (i = 1; i < s; i++)
 {
 _putchar(' ');
 }
-_putchar('\\');
+_putchar(92);
 _putchar('\n');
 }
- _putchar('\n');
 }
