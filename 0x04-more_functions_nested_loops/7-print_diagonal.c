@@ -1,8 +1,8 @@
 #include "main.h"
 /**
 * print_diagonal - diagonally
-*@n: the parameter
-* Return: Always 0 Success
+* @n: the parameter
+* Return: Always 0 (Success)
 */
 void print_diagonal(int n)
 {
@@ -21,4 +21,5 @@ _putchar(' ');
 _putchar('\\');
 _putchar('\n');
 }
+ _putchar('\n');
 }
