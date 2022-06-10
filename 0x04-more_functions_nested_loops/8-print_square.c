@@ -6,22 +6,15 @@
 */
 void print_square(int size)
 {
-int i;
-if (size <= 48)
+int i, j;
+for (i = 0; i < size; i++)
 {
+for (j = 0; j < size; j++)
+{
+_putchar(35);
+}
+if (i != size - 1)
 _putchar('\n');
 }
-i = 1;
-while (i <= size)
-{
-int j;
-j = 1;
 _putchar('\n');
-while (j <= size)
-{
-_putchar('#');
-j++;
-}
-i++;
-}
 }
