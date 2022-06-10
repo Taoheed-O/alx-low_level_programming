@@ -20,7 +20,7 @@ _putchar('\n');
 while (j <= size)
 {
 _putchar('#');
- j++;
+j++;
 }
 i++;
 }
