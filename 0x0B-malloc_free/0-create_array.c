@@ -14,14 +14,14 @@ if (size == 0)
 {
 return (NULL);
 }
-cr = malloc(sizeof(c) * size)
+cr = malloc(sizeof(c) * size);
 if (cr == NULL)
 {
 return (NULL);
 }
 for (i = 0 ; i < size ; i++)
 {
-cr[i] = c
+cr[i] = c;
 }
 return (cr);
 }
