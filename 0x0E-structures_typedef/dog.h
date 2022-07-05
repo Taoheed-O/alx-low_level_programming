@@ -10,14 +10,11 @@
 * and the name of its owner.
 */
 
-
 struct dog
 {
 char *name;
 float age;
 char *owner;
-}
-
-typedef struct dog;  
+} 
 
 #endif
