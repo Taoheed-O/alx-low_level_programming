@@ -4,7 +4,7 @@
 /**
 * print_listint - A function that prints all elements ina linked list.
 * @h: the link list
-* Return: all elements of the list
+* Return: number of elements in the list
 */
 size_t print_listint(const listint_t *h)
 {
